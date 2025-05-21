@@ -45,7 +45,17 @@ Inspired by platforms like **YouTube** and **Twitch**, Stream Sphere provides in
 ---
 
 ## 🖌 UI Highlights (Coming Soon)  
-*Wireframes and screenshots of the Stream Sphere interface will be added shortly.*
+### 🏠 Home Page
+
+<p align="center">
+  <img src="./homePage.png" alt="Home Page Screenshot" width="700"/>
+</p>
+
+### 📺 Video Page
+
+<p align="center">
+  <img src="./VideoPage.png" alt="Video Page Screenshot" width="700"/>
+</p>
 
 ---
 
@@ -59,14 +69,6 @@ Inspired by platforms like **YouTube** and **Twitch**, Stream Sphere provides in
 | 🧪 Testing     | Week 6       | 🔹 Debugging and optimizations <br> 🔹 Load testing and sentiment analysis tuning     |
 | 🚀 Deployment  | Week 7       | 🔹 Final deployment and documentation <br> 🔹 GitHub and hosting setup                |
 
----
-
-## 🧠 Future Enhancements  
-- 🎮 Gamified viewer engagement (points, badges)  
-- 📊 Advanced analytics dashboard for viewer insights  
-- 🌐 Multi-language subtitles and accessibility features  
-
----
 
 ## 📞 Contact  
 
